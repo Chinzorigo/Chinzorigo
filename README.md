@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chinzorigo
 - 👀 I’m interested in middleware, backend, database and kubernetes.
-- 🌱 I’m currently learning node.js, express.js, sqlite, mysql, mongodb, api, docker and kubernetes. 
+- 🌱 I’m currently learning node.js, express.js, sqlite, mysql, mongodb, api, github, docker and kubernetes. Learning react and vue but frontend is challenging for me. Anyway, I can learn it.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - chinzorig.o@gmail.com
 
