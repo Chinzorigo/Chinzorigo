@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinzorigo
-- 👀 I’m interested in middleware, backend, database and kubernetes.
-- 🌱 I’m currently learning node.js, express.js, sqlite, mysql, mongodb, firebase, api, github, docker and kubernetes.
-- 💞️ I’m looking to collaborate on MERN stack project heavily on backend.
+- 👀 I’m interested in frontend, middleware, backend, database and kubernetes.
+- 🌱 I’m currently learning mongodb, node.js, express.js, firebase, api, github, docker and kubernetes.
+- 💞️ I’m looking for an opportunity on the MERN stack project heavily on the backend.
 - 📫 How to reach me - chinzorig.o@gmail.com
 
 <!---
