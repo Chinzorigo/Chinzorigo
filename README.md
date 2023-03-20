@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinzorigo
-- 👀 I’m interested in frontend, middleware, backend, database and kubernetes.
-- 🌱 I’m currently learning MERN stack, Next JS, Github and Kubernetes. I will shift to Next JS once comfortable with React.
-- 💞️ I’m looking for an opportunity on the MERN stack project heavily on the backend.
+- 👀 I’m interested in frontend, backend and database.
+- 🌱 I’m currently learning MERN stack, Next, Prisma, tRPC, NexAuth and Kubernetes. 
+- 💞️ I’m looking for an opportunity on the MERN or Next, Prisma, tRPC, NexAuth project heavily on the backend.
 - 📫 How to reach me - chinzorig.o@gmail.com
 
 <!---
